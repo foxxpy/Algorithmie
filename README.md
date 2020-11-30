@@ -1,9 +1,11 @@
 #----- Algorithmes en Python -----
+
 Scripts des épisodes d'algorithmie en Python de ma chaîne Youtube.
 
 Ma chaîne Youtube : https://www.youtube.com/c/foxxpy/
 
 La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8IU&list=PL6JtJ0Q7T-YwoXY5PletTK9ITQ8YPDa-G
+
 
 #----- Les épisodes -----
 
@@ -13,61 +15,61 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 3.	Liste des nombres premiers dans un intervalle : https://youtu.be/sMePUaTdzKM
 
-4.	Liste des diviseurs qui sont premiers : 
+4.	Liste des diviseurs qui sont premiers : https://youtu.be/Xqnr9GfBKIE
 
-5.	Liste des nombres premiers de Sophie Germain : 
+5.	Liste des nombres premiers de Sophie Germain : https://youtu.be/nKMFuSvQAuc
 
-6.	Tester si un nombre est une puissance d'un autre nombre : 
+6.	Tester si un nombre est une puissance d'un autre nombre : https://youtu.be/PBRusYdbFrk
 
-7.	Tester si un nombre est parfait : 
+7.	Tester si un nombre est parfait : https://youtu.be/V2yOJVsUE5s
 
-8.	Liste des nombres parfaits dans un intervalle : 
+8.	Liste des nombres parfaits dans un intervalle : https://youtu.be/tTxPDulMQKY
 
-9.	Recherche du minimum d'une liste : 
+9.	Recherche du minimum d'une liste : https://youtu.be/N0dFeoCV_tg
 
-10.	Recherche du maximum d'une liste : 
+10.	Recherche du maximum d'une liste : https://youtu.be/9GJEO28L5-M
 
-11.	L'algorithme de Heron : 
+11.	L'algorithme de Heron : https://youtu.be/YtZi6PM4rso
 
-12.	Suite de Fibonacci et mémoïsation : 
+12.	Suite de Fibonacci et mémoïsation : https://youtu.be/oTUBSCOSZ18
 
-13.	Echanger les valeurs de 2 variables : 
+13.	Echanger les valeurs de 2 variables : https://youtu.be/pY9w0CEx65I
 
-14.	Tri à bulles : 
+14.	Tri à bulles : https://youtu.be/48KD2VnKeg4
 
-15.	Inverser une chaîne de caractères : 
+15.	Inverser une chaîne de caractères : https://youtu.be/2p-zIktxW1E
 
-16.	Somme des éléments d'une liste : 
+16.	Somme des éléments d'une liste : https://youtu.be/O3yZZGIy9mQ
 
-17.	Moyenne arithmétique : 
+17.	Moyenne arithmétique : https://youtu.be/kdmJ9VqQpeg
 
-18.	Moyenne harmonique : 
+18.	Moyenne harmonique : https://youtu.be/TnyvLPYIa8M
 
-19.	Moyenne quadratique : 
+19.	Moyenne quadratique : https://youtu.be/l-lr4V5sUfg
 
-20.	Moyenne géométrique : 
+20.	Moyenne géométrique : https://youtu.be/hhxlgYjKikE
 
-21.	Variance et écart-type : 
+21.	Variance et écart-type : https://youtu.be/IQ34LEWHu2A
 
-22.	Factorielle : 
+22.	Factorielle : https://youtu.be/FNLMekgBrgo
 
-23.	Recréer la fonction len() : 
+23.	Recréer la fonction len() : https://youtu.be/wwC02fx1uAU
 
-24.	Calculer la puissance d'un nombre : 
+24.	Calculer la puissance d'un nombre : https://youtu.be/XojTr43i1dU
 
-25.	Somme des puissances d'un nombre réel : 
+25.	Somme des puissances d'un nombre réel : https://youtu.be/jSN96okYfVc
 
-26.	L'identité remarquable (a+b)² : 
+26.	L'identité remarquable (a+b)² : https://youtu.be/NXWdZgva2EY
 
-27.	L'identité remarquable (a-b)² : 
+27.	L'identité remarquable (a-b)² : https://youtu.be/zW_6GW2tXy0
 
-28.	L'identité remarquable a² - b² : 
+28.	L'identité remarquable a² - b² : https://youtu.be/UzeE53XdrBY
 
-29.	Supprimer des éléments d'une liste : 
+29.	Supprimer des éléments d'une liste : https://youtu.be/ZPrM8UdjtM8
 
-30.	Concaténer deux listes : 
+30.	Concaténer deux listes : https://youtu.be/VQmI3Jb2l-I
 
-31.	La tour de Hanoï - Partie 1 : résolution et nombres binaires : 
+31.	La tour de Hanoï - Partie 1 : résolution et nombres binaires : https://youtu.be/Fno3jBXyw6w
 
 32.	Rechercher un élément dans une liste : 
 
