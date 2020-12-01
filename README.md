@@ -71,7 +71,7 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 31/	La tour de Hanoï - Partie 1 : résolution et nombres binaires : https://youtu.be/Fno3jBXyw6w
 
-32/	Rechercher un élément dans une liste : 
+32/	Rechercher un élément dans une liste : https://youtu.be/-58Q9msluEM
 
 33/	Résoudre un polynôme du second degré : 
 
