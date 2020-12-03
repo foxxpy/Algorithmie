@@ -73,9 +73,9 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 32/	Rechercher un élément dans une liste : https://youtu.be/-58Q9msluEM
 
-33/	Résoudre un polynôme du second degré : 
+33/	Résoudre un polynôme du second degré : https://youtu.be/TVH-5mXfI_8
 
-34/	Répétitions dans une liste : 
+34/	Répétitions dans une liste : https://youtu.be/DkcDFbzM2Xg
 
 35/	Recréer la méthode join() : 
 
