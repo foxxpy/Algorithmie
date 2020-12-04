@@ -77,6 +77,6 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 34/	Répétitions dans une liste : https://youtu.be/DkcDFbzM2Xg
 
-35/	Recréer la méthode join() : 
+35/	Recréer la méthode join() : https://youtu.be/x-aO4rsELn0
 
 
