@@ -79,4 +79,5 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 35/	Recréer la méthode join() : https://youtu.be/x-aO4rsELn0
 
+36/ Déterminer si une année est bissextile : https://youtu.be/pgi9QolZxxE
 
