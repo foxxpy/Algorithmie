@@ -84,3 +84,5 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 37/ Convertir des secondes en heures, minutes, secondes : https://youtu.be/FxkdNMGab0Y
 
 38/ Les cycles avec le modulo : https://youtu.be/u4FC1UqfXds
+
+39/ Obtenir les valeurs dans la table Ascii : https://youtu.be/_bURGQ2Afko
