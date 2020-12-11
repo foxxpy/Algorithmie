@@ -86,3 +86,5 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 38/ Les cycles avec le modulo : https://youtu.be/u4FC1UqfXds
 
 39/ Obtenir les valeurs dans la table Ascii : https://youtu.be/_bURGQ2Afko
+
+40/ Le chiffre de César : https://youtu.be/M0Wv-M5wkGI
