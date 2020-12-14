@@ -88,3 +88,5 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 39/ Obtenir les valeurs dans la table Ascii : https://youtu.be/_bURGQ2Afko
 
 40/ Le chiffre de César : https://youtu.be/M0Wv-M5wkGI
+
+41/ Résoudre une équation de degré 1 : https://youtu.be/pmA8kKbXjIY
