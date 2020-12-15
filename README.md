@@ -90,3 +90,5 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 40/ Le chiffre de César : https://youtu.be/M0Wv-M5wkGI
 
 41/ Résoudre une équation de degré 1 : https://youtu.be/pmA8kKbXjIY
+
+42/ Tester si une chaîne de caractères ne contient que des nombres : https://youtu.be/3uTgn1pxsTA
