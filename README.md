@@ -94,3 +94,5 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 42/ Tester si une chaîne de caractères ne contient que des nombres : https://youtu.be/3uTgn1pxsTA
 
 43/ Tester si tous les mots d'une chaîne de caractères commencent par une majuscule : https://youtu.be/DIu5IHyuQbI
+
+44/ Renvoyer une chaîne de caractères entièrement en minuscule/majuscule : https://youtu.be/zYRQTcodjMo
