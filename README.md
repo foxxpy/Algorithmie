@@ -98,3 +98,7 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 44/ Renvoyer une chaîne de caractères entièrement en minuscule/majuscule : https://youtu.be/zYRQTcodjMo
 
 45/ Enlever les doublons dans une liste : https://youtu.be/M9Fr7CJ_0dQ
+
+46/ Tester si une chaîne de caractères contient uniquement des lettres de l'alphabet : https://youtu.be/QO3ANs3_uKI
+
+47/ Somme de tous les éléments d'un dictionnaire : https://youtu.be/8EhTvkpqpso
