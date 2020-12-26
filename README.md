@@ -106,3 +106,5 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 48/ Fusionner deux dictionnaires : https://youtu.be/DMeuEz9PJVU
 
 49/ Multiplier toutes les valeurs d'un dictionnaire : https://youtu.be/SdYnSTMqINw
+
+50/ Trouver la valeur maximale dans un dictionnaire : https://youtu.be/cJ7g_4KwCl4
