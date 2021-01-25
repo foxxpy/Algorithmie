@@ -108,3 +108,23 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 49/ Multiplier toutes les valeurs d'un dictionnaire : https://youtu.be/SdYnSTMqINw
 
 50/ Trouver la valeur maximale dans un dictionnaire : https://youtu.be/cJ7g_4KwCl4
+
+51/ Trouver la valeur minimale dans un dictionnaire : https://youtu.be/cJ7g_4KwCl4
+
+52/ Transformer deux listes en un dictionnaire : https://youtu.be/nhkT_nrHRCs
+
+53/ Supprimer tous les éléments d'une liste : https://youtu.be/gcUXSgUMraw
+
+54/ Afficher les éléments d'un dictionnaire triés par clé : https://youtu.be/i56Roybr2jo
+
+55/ Supprimer le caractère à l'indice n d'une chaîne de caractères : https://youtu.be/_9kELzrekWk
+
+56/ Différences entre les méthodes remove, pop et del : https://youtu.be/1GkXG8EiOVk
+
+57/ Tester si une date est valide : https://youtu.be/wrXIqhTM0e4
+
+58/ Inverser un nombre entier : https://youtu.be/GCYoabTaBjs
+
+59/ Convertir un nombre décimal en binaire : https://youtu.be/t_3mJ8t-T4w
+
+60/ Convertir un nombre binaire en décimal : https://youtu.be/wZjmWctFtg4
