@@ -128,3 +128,7 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 59/ Convertir un nombre décimal en binaire : https://youtu.be/t_3mJ8t-T4w
 
 60/ Convertir un nombre binaire en décimal : https://youtu.be/wZjmWctFtg4
+
+61/ Convertir un nombre décimal en hexadécimal : https://youtu.be/AgcOiDTxp68
+
+62/ Convertir un nombre hexadécimal en décimal : https://youtu.be/5l1fE2x--pc
