@@ -132,3 +132,17 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 61/ Convertir un nombre décimal en hexadécimal : https://youtu.be/AgcOiDTxp68
 
 62/ Convertir un nombre hexadécimal en décimal : https://youtu.be/5l1fE2x--pc
+
+63/ Addition de 2 vecteurs : https://youtu.be/t_SMf-60Z7A
+
+64/ Générer une matrice aléatoire : https://youtu.be/lb0t9iQnhFA
+
+65/ Calculer l'aire et le périmètre d'un cercle : https://youtu.be/pv1BM16EExM
+
+66/ Calculer l'aire et le périmètre d'un triangle : https://youtu.be/zvSkwIryyh0
+
+67/ Calculer l'aire et le périmètre d'un carré : https://youtu.be/4l6oce4cxZ4
+
+68/ Calculer l'aire et le périmètre d'un rectangle : https://youtu.be/Inqop8m0JlY
+
+69/ Tester si tous les éléments d'une liste sont différents : https://youtu.be/P_eGb5GSw1Y
