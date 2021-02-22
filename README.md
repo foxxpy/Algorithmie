@@ -146,3 +146,9 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 68/ Calculer l'aire et le périmètre d'un rectangle : https://youtu.be/Inqop8m0JlY
 
 69/ Tester si tous les éléments d'une liste sont différents : https://youtu.be/P_eGb5GSw1Y
+
+70/ Mélanger les caractères d'une chaîne de caractères : https://youtu.be/Vm08K-BTDok
+
+71/ Changer les lettres avec accent en lettres sans accent : https://youtu.be/0pVhBxa5Zs0
+
+72/ Tester si deux mots sont des anagrammes : https://youtu.be/Y9YEMaROgpc
