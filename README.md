@@ -152,3 +152,13 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 71/ Changer les lettres avec accent en lettres sans accent : https://youtu.be/0pVhBxa5Zs0
 
 72/ Tester si deux mots sont des anagrammes : https://youtu.be/Y9YEMaROgpc
+
+73/ Retirer les ponctuations d'une chaîne de caractères : https://youtu.be/NQtuauEAYqo
+
+74/ Tester si une chaîne de caractères est un pangramme : https://youtu.be/47HDfo4GLPA
+
+75/ Afficher les éléments d'une liste absents d'une autre liste : https://youtu.be/oPL2UPiwDTI
+
+76/ Calculer la distance entre deux points : https://youtu.be/x6kT22a7sOA
+
+77/ Calculer l'hypoténuse d'un triangle rectangle : https://youtu.be/otSFOYljOTY
