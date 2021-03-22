@@ -162,3 +162,21 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 76/ Calculer la distance entre deux points : https://youtu.be/x6kT22a7sOA
 
 77/ Calculer l'hypoténuse d'un triangle rectangle : https://youtu.be/otSFOYljOTY
+
+78/ Tester si toutes les valeurs d'un dictionnaire sont égales : https://youtu.be/0m2Fn2QldBI
+
+79/ Tester si une phrase est un hétérogramme : https://youtu.be/GnobX2MqP00
+
+80/ Tester si une phrase est un isogramme : https://youtu.be/PT0Ssn6AKZ0
+
+81/ Suite de Conway (Count and say) : https://youtu.be/HbBPEWs1fTk
+
+82/ Trier 3 nombres sans boucle, sans structure conditionnelle : https://youtu.be/B3kDJv2LMKY
+
+83/ Déterminer l'équation ax+b à partir de deux points : https://youtu.be/R-Qy2Eo7sKg
+
+84/ Tester si une chaîne de caractères est un palindrome : https://youtu.be/O6fo28fgGqY
+
+85/ Tester si une phrase est un palindrome : https://youtu.be/91T4uquuNkc
+
+86/ Somme des colonnes et des lignes d'une matrice : https://youtu.be/npk57jqwJBU
