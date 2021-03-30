@@ -1,0 +1,3 @@
+http://villemin.gerard.free.fr/aNombre/MOTIF/Strobogr.htm
+
+Nombres qui se lisent aussi bien même si la tablette (l'ardoise) est tenue à l'envers. Autrement-dit: c'est le même nombre après une rotation de 180°.

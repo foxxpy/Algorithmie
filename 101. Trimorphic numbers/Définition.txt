@@ -1,0 +1,2 @@
+Given a number N, the task is to check whether the number is Trimorphic number or not. 
+A number is called Trimorphic number if and only if its cube ends in the same digits as the number itself. In other words, number appears at the end of its cube.

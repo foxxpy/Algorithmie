@@ -180,3 +180,51 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 85/ Tester si une phrase est un palindrome : https://youtu.be/91T4uquuNkc
 
 86/ Somme des colonnes et des lignes d'une matrice : https://youtu.be/npk57jqwJBU
+
+87/ Trouver les sunny numbers dans un intervalle : https://youtu.be/VhWm3qVOa7Y
+
+88/ Calculer la valeur du nombre d'Euler e : https://youtu.be/V4d_1ewvkUM
+
+89/ Trouver les nombres heureux dans un intervalle : https://youtu.be/AQEAK6G4Lco
+
+90/ Trouver les spy numbers dans un intervalle : https://youtu.be/xYmhqo3Zmgc
+
+91/ Taux de croissance : https://youtu.be/et36ILjE38c
+
+92/ Série des nombres triangulaires : https://youtu.be/aBpU8IpxaYw
+
+93/ Calculer la distance Euclidienne : https://youtu.be/sMEVCSQIFmI
+
+94/ Déterminer si un nombre est pair ou impair : https://youtu.be/Y34srP2FVes
+
+95/ Faire la somme de nombres binaires : https://youtu.be/9u7y9gRH_lg
+
+96/ Rendu de monnaie : https://youtu.be/QDEruQ7lgUc
+
+97/ Réinitialiser un objet Python sans le détruire : https://youtu.be/GSWNfGjbrlU
+
+98/ Les nombres strobogrammatiques : https://youtu.be/dwj0cAn3ArA
+
+99/ Evil numbers : 
+
+100/ Disarium numbers : 
+
+101/ Trimorphic numbers : 
+
+102/ Ugly Numbers : 
+
+103/ Instancier une matrice nulle : 
+
+104/ Convertir des nombres entiers en nombres romains : 
+
+105/ Convertir des nombres romains en nombres entiers : 
+
+106/ Poids de Hamming : 
+
+107/ Distance de Hamming : 
+
+108/ Jeu de Nim : 
+
+109/ Strong Number : 
+
+110/ Armstrong Number : 
