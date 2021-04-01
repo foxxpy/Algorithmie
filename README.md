@@ -205,19 +205,19 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 98/ Les nombres strobogrammatiques : https://youtu.be/dwj0cAn3ArA
 
-99/ Evil numbers : 
+99/ Evil numbers : https://youtu.be/Kpzc-Wrlpi8
 
-100/ Disarium numbers : 
+100/ Disarium numbers : https://youtu.be/VzjWEE_pK7s
 
-101/ Trimorphic numbers : 
+101/ Trimorphic numbers : https://youtu.be/875OumwR0Xo
 
-102/ Ugly Numbers : 
+102/ Ugly Numbers : https://youtu.be/TtjItt38TFA
 
-103/ Instancier une matrice nulle : 
+103/ Instancier une matrice nulle : https://youtu.be/TZEn60JRXPI
 
-104/ Convertir des nombres entiers en nombres romains : 
+104/ Convertir des nombres entiers en nombres romains : https://youtu.be/fD9aw0dZtjc
 
-105/ Convertir des nombres romains en nombres entiers : 
+105/ Convertir des nombres romains en nombres entiers : https://youtu.be/WFyrryNO9Nk
 
 106/ Poids de Hamming : 
 
