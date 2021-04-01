@@ -219,12 +219,12 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 105/ Convertir des nombres romains en nombres entiers : https://youtu.be/WFyrryNO9Nk
 
-106/ Poids de Hamming : 
+106/ Poids de Hamming : https://youtu.be/noOCKbPLaRo
 
-107/ Distance de Hamming : 
+107/ Distance de Hamming : https://youtu.be/VOMjIrmCULc
 
-108/ Jeu de Nim : 
+108/ Jeu de Nim : https://youtu.be/aMV3nWR7nuA
 
-109/ Strong Number : 
+109/ Strong Number : https://youtu.be/_GmwwVHonic
 
-110/ Armstrong Number : 
+110/ Armstrong Number : https://youtu.be/nkGMMMU8heA
