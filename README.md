@@ -228,3 +228,7 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 109/ Strong Number : https://youtu.be/_GmwwVHonic
 
 110/ Armstrong Number : https://youtu.be/nkGMMMU8heA
+
+111/ Super digit : https://youtu.be/oIGr_S7zT30
+
+112/ Le triangle de Floyd : https://youtu.be/_WGWyZXOPmY
