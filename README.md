@@ -232,3 +232,15 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 111/ Super digit : https://youtu.be/oIGr_S7zT30
 
 112/ Le triangle de Floyd : https://youtu.be/_WGWyZXOPmY
+
+113/ Fascinating number : https://youtu.be/dg9lR37YNwo
+
+114/ Nombre automorphe : https://youtu.be/SPju1nzoN8c
+
+115/ Tester si une grille de sudoku est valide : https://youtu.be/urteMCdSEIU
+
+116/ Résoudre une grille de sudoku : https://youtu.be/O2pcNxzlL0Q
+
+117/ Afficher le triangle de Pascal : https://youtu.be/AlHCUHLFQ30
+
+118/ Retourner les éléments présents dans deux listes : https://youtu.be/ykc9ICfd6GY
