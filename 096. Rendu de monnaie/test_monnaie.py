@@ -1,4 +1,4 @@
-from monnaie import monnaie, calcul_montant_rendu
+from monnaie import monnaie, calcul_montant_rendu, diram
 
 prix = 100.50
 paiement = 120.00
