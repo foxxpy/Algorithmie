@@ -244,3 +244,7 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 117/ Afficher le triangle de Pascal : https://youtu.be/AlHCUHLFQ30
 
 118/ Retourner les éléments présents dans deux listes : https://youtu.be/ykc9ICfd6GY
+
+119/ Somme de deux fractions : https://www.youtube.com/watch?v=fEYYgDRgf9A
+
+120/ Les nombres de Tribonacci : https://www.youtube.com/watch?v=suQdQDBmJ1Q
