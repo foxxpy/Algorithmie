@@ -247,4 +247,18 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 119/ Somme de deux fractions : https://www.youtube.com/watch?v=fEYYgDRgf9A
 
+119.1/ Somme de deux fractions - Le module Fraction : https://youtu.be/6f2U7czDKVE
+
 120/ Les nombres de Tribonacci : https://www.youtube.com/watch?v=suQdQDBmJ1Q
+
+121/ Inverser tous les mots d'une chaîne de caractères : https://youtu.be/OvxuJEvMhLs
+
+122/ Number complement : https://youtu.be/VBpqFPGIFWI
+
+123/ Coefficient binomial : https://youtu.be/7dyl22oA9QM
+
+124/ Ajouter des zéros au début d'un nombre : https://youtu.be/0Ua5_KHUEgk
+
+125/ Trouver le PGCD : https://youtu.be/5vLbm74WtZI
+
+126/ Initialiser une matrice identité : https://youtu.be/l0ymWM4QsaY
