@@ -262,3 +262,5 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 125/ Trouver le PGCD : https://youtu.be/5vLbm74WtZI
 
 126/ Initialiser une matrice identité : https://youtu.be/l0ymWM4QsaY
+
+127/ Convertir une chaîne de caractères en Morse : https://youtu.be/-rrmCnTaic0
