@@ -264,3 +264,5 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 126/ Initialiser une matrice identité : https://youtu.be/l0ymWM4QsaY
 
 127/ Convertir une chaîne de caractères en Morse : https://youtu.be/-rrmCnTaic0
+
+128/ Additionner deux nombres complexes : https://youtu.be/UYgl6qDDpG0
