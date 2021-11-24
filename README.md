@@ -266,3 +266,5 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 127/ Convertir une chaîne de caractères en Morse : https://youtu.be/-rrmCnTaic0
 
 128/ Additionner deux nombres complexes : https://youtu.be/UYgl6qDDpG0
+
+129/ Multiplier deux nombres complexes : https://youtu.be/TIzZvTA_2tw
