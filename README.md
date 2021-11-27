@@ -268,3 +268,6 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 128/ Additionner deux nombres complexes : https://youtu.be/UYgl6qDDpG0
 
 129/ Multiplier deux nombres complexes : https://youtu.be/TIzZvTA_2tw
+
+130/ Négation d'un nombre complexe : https://youtu.be/BzZyNnSV2RI
+
