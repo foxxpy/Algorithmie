@@ -271,3 +271,6 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 130/ Négation d'un nombre complexe : https://youtu.be/BzZyNnSV2RI
 
+131/ Inverse d'un nombre complexe : https://youtu.be/v-ZJTaa77pE
+
+
