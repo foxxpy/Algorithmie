@@ -275,5 +275,6 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 132/ Le conjugué d'un nombre complexe : https://youtu.be/9vFWuS-hX7M
 
+133/ Le module d'un nombre complexe : https://youtu.be/UWanVo3emE8
 
 
