@@ -277,4 +277,6 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 133/ Le module d'un nombre complexe : https://youtu.be/UWanVo3emE8
 
+134/ Argument d'un nombre complexe : https://youtu.be/tZH8dbLCACM
+
 
