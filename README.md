@@ -279,4 +279,8 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 134/ Argument d'un nombre complexe : https://youtu.be/tZH8dbLCACM
 
+135/ Les cycles de i puissance n : https://youtu.be/h7eWneSX8vE
+
+136/ Récupérer un nombre complexe depuis une chaîne de caractères : https://youtu.be/iq-5J7T4iD8
+
 
