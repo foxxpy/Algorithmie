@@ -283,4 +283,7 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 136/ Récupérer un nombre complexe depuis une chaîne de caractères : https://youtu.be/iq-5J7T4iD8
 
+137/ Additionner deux matrices : https://youtu.be/ncKxgamfd2M
+
+
 
