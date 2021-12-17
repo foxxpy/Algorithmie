@@ -285,5 +285,10 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 137/ Additionner deux matrices : https://youtu.be/ncKxgamfd2M
 
+138/ Calculer la transposée d'une matrice : https://youtu.be/Gxq76eihTUs
+
+139/ Produit d'Hadamard de deux matrices : https://youtu.be/Cw0Uo7KGN4Y
+
+
 
 
