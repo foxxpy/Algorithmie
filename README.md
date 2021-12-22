@@ -289,6 +289,10 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 139/ Produit d'Hadamard de deux matrices : https://youtu.be/Cw0Uo7KGN4Y
 
+140/ Produit scalaire de deux matrices : https://youtu.be/bJYMJZLbZdg
+
+141/ Produit cartésien de deux ensembles : https://youtu.be/4ngoRVS1H3E
+
 
 
 
