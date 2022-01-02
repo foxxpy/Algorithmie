@@ -293,6 +293,14 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 141/ Produit cartésien de deux ensembles : https://youtu.be/4ngoRVS1H3E
 
+142/ Multiplier une matrice par un scalaire : https://youtu.be/U6s7fs2e6XI
+
+143/ Produit Kronecker de deux matrices : https://youtu.be/rAKa7rf1zlE
+
+144/ Calculer le déterminant d'une matrice carré d'ordre 2 : https://youtu.be/lyhFfYPAfeo
+
+145/ Calculer le déterminant d'une matrice carré d'ordre 3 : https://youtu.be/w1gehAWQbb0
+
 
 
 
