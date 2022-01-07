@@ -301,6 +301,13 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 145/ Calculer le déterminant d'une matrice carré d'ordre 3 : https://youtu.be/w1gehAWQbb0
 
+146/ Calculer la trace d'une matrice : https://youtu.be/8sLzTbFFELs
+
+147/ Calculer le permanent d'une matrice carrée d'ordre 2 : https://youtu.be/IveQ68-4syo
+
+148/ Calculer le permanent d'une matrice carrée d'ordre 3 : https://youtu.be/YlbK0TUlNk4
+
+
 
 
 
