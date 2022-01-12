@@ -307,6 +307,9 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 148/ Calculer le permanent d'une matrice carrée d'ordre 3 : https://youtu.be/YlbK0TUlNk4
 
+149/ Matrice de Toeplitz : https://youtu.be/B4WTitopOz4
+
+150/ Aplatir des listes imbriquées : https://youtu.be/p5o2qM2unnI
 
 
 
