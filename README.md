@@ -311,6 +311,8 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 150/ Aplatir des listes imbriquées : https://youtu.be/p5o2qM2unnI
 
+151/ Les piles : https://youtu.be/qwptQU8zEa8
+
 
 
 
