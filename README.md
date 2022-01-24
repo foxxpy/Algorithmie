@@ -313,6 +313,7 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 151/ Les piles : https://youtu.be/qwptQU8zEa8
 
+152/ Les files : https://youtu.be/RFOsPp_BM3M
 
 
 
