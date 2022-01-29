@@ -315,5 +315,6 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 
 152/ Les files : https://youtu.be/RFOsPp_BM3M
 
+153/ Les listes chaînées : https://youtu.be/BVJYOioKZr0
 
 
