@@ -318,3 +318,5 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 153/ Les listes chaînées : https://youtu.be/BVJYOioKZr0
 
 154/ Inverser une liste chaînée : https://youtu.be/MBlPIN2ZXkc
+
+155/ Les listes doublement chaînées : https://youtu.be/SGf-BBtfP_w
