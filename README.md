@@ -320,3 +320,11 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 154/ Inverser une liste chaînée : https://youtu.be/MBlPIN2ZXkc
 
 155/ Les listes doublement chaînées : https://youtu.be/SGf-BBtfP_w
+
+156/ Inverser une liste doublement chaînée : https://youtu.be/20eovlcLyeA
+
+157/ Renvoyer le nœud au milieu d'une liste chaînée : https://youtu.be/NoYbu__A_cI
+
+158/ Echanger les nœuds d'une liste chaînée par paire : https://youtu.be/YVRJRuQXVjk
+
+159/ Déterminer si une liste chaînée est cyclique : https://youtu.be/fVviPTyJnWk
