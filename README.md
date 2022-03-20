@@ -328,3 +328,7 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 158/ Echanger les nœuds d'une liste chaînée par paire : https://youtu.be/YVRJRuQXVjk
 
 159/ Déterminer si une liste chaînée est cyclique : https://youtu.be/fVviPTyJnWk
+
+160/ Donner le noeud où commence le cycle d'une liste chaînée cyclique : https://youtu.be/8XrQCwgM5To
+
+161/ Partitionner une liste chaînée : https://youtu.be/80CnNOAc_QE
