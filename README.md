@@ -334,3 +334,7 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 161/ Partitionner une liste chaînée : https://youtu.be/80CnNOAc_QE
 
 162/ Déterminer si une liste chaînée simple est palindromique : https://youtu.be/W6VQ1GcNG2s
+
+163/ Déterminer si une liste doublement chaînée est palindromique : https://youtu.be/QPa4s4UyZSg
+
+164/ Additionner deux nombres formés par une liste chaînée : https://youtu.be/mcR4HBynou4
