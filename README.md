@@ -338,3 +338,5 @@ La playlist "Algorithmes en Python" : https://www.youtube.com/watch?v=68MswC7M8I
 163/ Déterminer si une liste doublement chaînée est palindromique : https://youtu.be/QPa4s4UyZSg
 
 164/ Additionner deux nombres formés par une liste chaînée : https://youtu.be/mcR4HBynou4
+
+165/ Convertir un nombre binaire contenue dans une liste chaînée en un nombre entier : https://youtu.be/j2hMp3z-g9A
